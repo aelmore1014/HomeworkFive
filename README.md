@@ -15,5 +15,6 @@ Using the click function in conjuction with local storage, I made it so when you
 
 
 These variables are set up to display what the current date is in the "todaysDate" div.  This is possible with the moments.js api which can keep track of what day it is along with other time related features.
+
 ![screenshot](Screenshots/screenshot3.png)
 
