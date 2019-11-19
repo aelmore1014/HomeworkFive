@@ -102,8 +102,12 @@ dateEl.text(date);
 console.log(theDate);
 
 if (theDate === "9 AM"){
-    NineAm.addClass("present")
+    nineAM.addClass("present")
 }
+else {
+    nineAM.addClass("future")
+}
+
 
 
 if (theDate === "10 AM"){
