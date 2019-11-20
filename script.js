@@ -104,9 +104,7 @@ console.log(theDate);
 if (theDate === "9 AM"){
     nineAM.addClass("present")
 }
-else {
-    nineAM.addClass("future")
-}
+
 
 
 
